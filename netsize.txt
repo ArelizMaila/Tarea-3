@@ -1,0 +1,6 @@
+Areliz Maila
+Filename : ../data/Saavedra2013/n22.txt
+Número de filas
+19
+Número de columnas
+37
